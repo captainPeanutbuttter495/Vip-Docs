@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4c91e193e2900a74",
+    "type": "split",
+    "children": [
+      {
+        "id": "644a39ecd2834219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f27874f444fba30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eb315e44680900f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2296e75912a10da3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff9e87ecc5c5ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d033b75d61be852c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f7d9da81fc818d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "195bec18fc021cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ffe6ef846946b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71677d3cc6bc6f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ticket/Events_API_Integration_Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "44aeba381b3abb9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ticket/Events_API_Integration_Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b1b297f8fb7cb5e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae5cfc3e4d6ef1fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e49e1d1bf5f002fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ticket/Events_API_Integration_Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6f27874f444fba30",
+  "lastOpenFiles": [
+    "Backend/Events_API.md.tmp.17312.f05662f29316",
+    "Ticket/Events_API_Integration_Plan.md",
+    "Ticket/Events_API_Integration_Plan.md.tmp.17312.4a852bd15f15",
+    "Events_API_Demo.md",
+    "Ticket/Events_API_Integration_Plan.md.tmp.17312.394bfac28f2e",
+    "Project/Next_Steps_2026-10-01.md",
+    "Project/Project_Phases.md",
+    "Standup/seddhm8yM",
+    "Standup/Standup_2026-10-01.md",
+    "Standup/Standup_2026-10-01.md.tmp.75468.a15c07d21de0",
+    "Events_API_Demo.md.tmp.114328.768af16f3d8f",
+    "Events_API_Demo.md.tmp.61868.aebafeaf2552",
+    "Standup/Questions_2026-09-21_Events_Page.md",
+    "Standup/OneOnOne_2026-09-25_Backend_Infra.md",
+    "Infrastructure/CI_GitHub_Actions.md",
+    "Project/Testing.md",
+    "Backend/OpenAPI_Swagger.md",
+    "SystemDesign/C4-Diagrams/07-Dynamic-Diagrams.md",
+    "Backend/Health_Endpoints.md",
+    "Backend/Events_API.md",
+    "Ticket/Health_Check_Endpoint.md",
+    "Backend/Configuration.md",
+    "Backend/Error_Envelope.md",
+    "SystemDesign/C4-Diagrams/05-Component-Backend.md",
+    "SystemDesign/Backend_Code_Organization.md",
+    "SystemDesign/C4-Diagrams/03-Container.md",
+    "SystemDesign/C4-Diagrams/02-SystemContext.md",
+    "Ticket/GitHub_Actions_CI.md",
+    "Ticket/Event_Page.md",
+    "Ticket/Events_API_Integration_Plan.md.tmp.26988.cd2ef7c101fc",
+    "SystemDesign/C4-Diagrams/04-Component-Frontend.md",
+    "SystemDesign/C4-Diagrams/00-C4-Overview.md",
+    "Frontend/Events_Page.md"
+  ]
+}
